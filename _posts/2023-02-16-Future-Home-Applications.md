@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Future Home Applications
-author: [Richard Kuo]
+author: [123]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
