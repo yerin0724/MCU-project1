@@ -35,7 +35,16 @@ This homework is to specify a Future Home application and describe the key featu
   - Draw a System Block Diagram
 
 ---
+## 智能冰箱
+### 智慧冰箱重點功能
+1.管理雜物
+2.防止維修問題
+3.節省能源
+4.讓用餐時間更有趣
 
+
+### 系統方塊圖
+![](https://www.youtube.com/watch?v=2UuftnOVm2s)
 
 
 ---
